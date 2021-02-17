@@ -1,11 +1,10 @@
 
-![Welcome](/Wine Classifier_cover.png?raw=true)
+
 
 
 # Desafio Módulo 02 do BootCamp de Machine Learning do IGIT
 
-## Wine_classifier
- 
+
 ---
 
 Nesse desafio o aluno deveria completar o jupyternotebook  e responder as perguntas na plataforma.
