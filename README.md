@@ -1,6 +1,6 @@
 
 
-![Welcome](/Wine Classifier_cover.png?raw=true)
+![Welcome](/Wine_Classifier_cover.png?raw=true)
 
 # Desafio Módulo 02 do BootCamp de Machine Learning do IGIT
 
